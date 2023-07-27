@@ -4,12 +4,12 @@ I'm Yassir Elrayah,  Data Scientist and Machine Learning Engineer with strong ba
 
 Check out my Data Science and Research Portfolio consisting of my case studies with Codes, papers and presentations in the fields
 
-**Data Science (ML)** 
-**Data Structures & Algorithms**
-**Deep Learning** 
-**Mathematics** 
-**Statistics** 
-**Geospatial Analysis**
+- **Data Science (ML)** 
+- **Data Structures & Algorithms**
+- **Deep Learning** 
+- **Mathematics** 
+- **Statistics** 
+- **Geospatial Analysis**
 
 
 
