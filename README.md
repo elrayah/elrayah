@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:telescope: I’m currently working on building up my GitHub profile with data science projects.\n
+:telescope: I’m currently working on building up my GitHub profile with data science projects.[\n]
 
 :open_book:I’m currently learning the basics of Exploratory Deep Learning, Computer visions, and large language models (LLM)\n
 
