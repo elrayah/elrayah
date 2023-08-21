@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **on any of the presented data-science projects or open to other projects**
 
-- 🤝 I’m looking for help with **Machine Learning and Geospatial Data Science projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/elrayah/Data-Science](https://github.com/elrayah/Data-Science)
 
 - 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
