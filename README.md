@@ -10,7 +10,7 @@
 
 :question: Ask me about anything data-science related, and I'll be happy to help you out. I love talking about this!
 
- :incoming_envelope: How to reach me [elrayah](mailto:elrayah@gmail.com?subject=[GitHub] Source %20Source%20Han%20Sans) me or connect on LinkedIn.
+ :incoming_envelope: How to reach me email <a href="mailto:elrayah@gmail.com">elrayah</a> me or connect on LinkedIn.
 
  
 
