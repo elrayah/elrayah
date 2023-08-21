@@ -6,6 +6,14 @@
 
 :people_holding_hands:I’m looking to collaborate on any of the presented data-science projects or open to other projects\n
 
+:abacus:All of my data science projects are available at https://github.com/elrayah/Data-Science\n
+
+:question: Ask me about anything data-science related, and I'll be happy to help you out. I love talking about this!\n
+
+ :incoming_envelope: How to reach me [email](mailto:elrayah@gmail.com?subject=[GitHub] Source elrayah) me or connect on LinkedIn.
+
+ 
+
 
 
 
