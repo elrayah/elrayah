@@ -3,6 +3,7 @@
 <h3 align="center">Data Scientist, AI Machine Learning Engineer, Geospatial Analyst, Resesarcher</h3>
 
 
+
 - 🔭 I’m currently working on **Machine Learning Classification and Cluster Analysis proejcts**
 
 - 🌱 I’m currently learning **Deep Learning, Computer visions, and large language models (LLM)**
