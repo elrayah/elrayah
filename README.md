@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Classification and Cluster Analysis proejcts**
 
-- 🌱 I’m currently learning **Deep Learning, Computer visions, and Large Language Models (LLM)**
+- 🌱 I’m currently learning **Deep Learning, Computer vision, and Large Language Models (LLM)**
 
 - 👯 I’m looking to collaborate on **on any of the presented data-science projects or open to other projects**
 
