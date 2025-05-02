@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning Classification and Cluster Analysis proejcts**
+- 🔭 I’m currently working on **Machine Learning Classification, Cluster Analysis and Forecasting proejcts**
 
 - 🌱 I’m currently learning **Deep Learning, Computer vision, and Large Language Models (LLM)**
 
