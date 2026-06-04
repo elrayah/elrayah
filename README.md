@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Dr. Yassir Elrayah</h1>
 
-<h3 align="center">Data Scientist, AI Machine Learning Engineer, Geospatial Analyst, Resesarcher</h3>
+<h3 align="center">Sr. Data Scientist, AI Machine Learning Engineer, Geospatial Analyst, Resesarcher</h3>
 
 
 
-- 🔭 I’m currently working on **Machine Learning Classification, Cluster Analysis and Forecasting proejcts**
+🔭 I’m currently working on data science and analytics solutions across marketing, location-based services, and innovation
 
-- 🌱 I’m currently learning **Deep Learning, Computer vision, and Large Language Models (LLM)**
+🌱 I’m expanding my expertise in Deep Learning, Computer Vision, and applied Large Language Models (LLMs)
 
-- 👯 I’m looking to collaborate on **on any of the presented data-science projects or open to other projects**
+👯 I’m interested in collaborating on data-driven and AI-powered projects that drive measurable impact
 
-- 👨‍💻 All of my projects are available at [https://github.com/elrayah/Data-Science](https://github.com/elrayah/Data-Science)
+👨‍💻 View my work: https://github.com/elrayah/Data-Science
 
-- 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
+💬 Ask me about machine learning, analytics, experimentation, and building scalable, real-world data solutions
 
-- 📫 How to reach me **elrayah@gmail.com**
+📫 Contact: elrayah@gmail.com
 
-- ⚡ Fun fact **I love arts and creative design**
+⚡ Fun fact: I enjoy blending creativity with analytics—especially through art and design
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
