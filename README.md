@@ -2,21 +2,32 @@
 
 <h3 align="center">Sr. Data Scientist, AI Machine Learning Engineer, Geospatial Analyst, Resesarcher</h3>
 
+Senior AI & Data Scientist with 15+ years of experience building machine learning, geospatial analytics, causal inference, forecasting, and Generative AI solutions that solve complex business problems across automotive, marketing, mobility, and enterprise analytics.
 
+🔭 I’m currently building AI-powered analytics applications, marketing measurement solutions (MMM), geospatial machine learning models, and LLM-based decision support systems.
 
-🔭 I’m currently working on data science and analytics solutions across marketing, location-based services, and innovation
+🌱 I’m currently expanding my expertise in AI Agents, Retrieval-Augmented Generation (RAG), multimodal AI, reinforcement learning, and production-scale Generative AI systems.
 
-🌱 I’m expanding my expertise in Deep Learning, Computer Vision, and applied Large Language Models (LLMs)
+👯 I’m interested in collaborating on projects involving Machine Learning, Generative AI, Marketing Science, Geospatial Analytics, MLOps, and Enterprise AI applications.
 
-👯 I’m interested in collaborating on data-driven and AI-powered projects that drive measurable impact
+👨‍💻 Portfolio & Projects: https://github.com/elrayah/Data-Science
 
-👨‍💻 View my work: https://github.com/elrayah/Data-Science
+💬 Ask me about:
+  <ol>
+    <li>Machine Learning & Predictive Analytics</li>
+    <li>Marketing Mix Modeling (MMM)</li>
+    <li>Bayesian Modeling & Causal Inference</li>
+    <li>Time Series Forecasting</li>
+    <li>Geospatial Data Science (GIS)</li>
+    <li>Generative AI & LLM Applications</li>
+    <li>AI Agents & RAG</li>
+    <li>Python, Spark, Databricks, Azure AI</li>
+    <li>Experimentation & A/B Testing</li>    
+  </ol>
 
-💬 Ask me about machine learning, analytics, experimentation, and building scalable, real-world data solutions
+📫 Reach me at: elrayah@gmail.com
 
-📫 Contact: elrayah@gmail.com
-
-⚡ Fun fact: I enjoy blending creativity with analytics—especially through art and design
+⚡ Fun fact: I enjoy combining spatial thinking, business strategy, and AI to transform complex data into practical, measurable business outcomes.
 
 
 <h3 align="left">Connect with me:</h3>
