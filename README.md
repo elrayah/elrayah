@@ -15,7 +15,7 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
 💬 Ask me about:
   <ol>
     <li>Machine Learning & Predictive Analytics</li>
-    <li>Marketing Mix Modeling (MMM)</li>
+    <li><a href="https://github.com/elrayah/google-meridian-mmm">Marketing Mix Modeling (MMM)</a></li>
     <li>Bayesian Modeling & Causal Inference</li>
     <li>Time Series Forecasting</li>
     <li>Geospatial Data Science (GIS)</li>
