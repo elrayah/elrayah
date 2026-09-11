@@ -15,7 +15,7 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
 💬 Ask me about:
   <ol>
     <li>Machine Learning & Predictive Analytics</li>
-    <li>Marketing Science Causal Inference Lab</li>
+    <li><a href ="https://github.com/elrayah/marketing-science-causal-inference-lab/blob/main/marketing_science_methods_lab_executed.ipynb" target="_blank">Marketing Science Causal Inference Lab</li>
     <li><a href="https://github.com/elrayah/google-meridian-mmm" target="_blank">Marketing Mix Modeling (MMM)</a></li>
     <li>Bayesian Modeling & Causal Inference</li>
     <li>Time Series Forecasting</li>
