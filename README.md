@@ -19,7 +19,7 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
     <li><a href="https://github.com/elrayah/google-meridian-mmm" target="_blank" rel="noopener noreferrer">Marketing Mix Modeling (MMM)</a></li>
     <li>Bayesian Modeling & Causal Inference</li>
     <li>Time Series Forecasting</li>
-    <li><a href="https://transcendent-gecko-2982d3.netlify.app/" target="_blank" rel="noopener noreferrer">Geospatial Data Science (GIS) & AIML - Pothole Detection</a></li>
+    <li><a href="https://transcendent-gecko-2982d3.netlify.app/](https://github.com/elrayah/advanced-geospatial-analytics/blob/main/geospatail_analytics_geospatial_libraries.ipynb" target="_blank" rel="noopener noreferrer">Geospatial Data Science (GIS) & AIML - Pothole Detection</a></li>
     <li>Generative AI & LLM Applications</li>
     <li>AI Agents & RAG</li>
     <li>Python, Spark, Databricks, Azure AI</li>
