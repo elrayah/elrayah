@@ -23,7 +23,7 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
     <li>Generative AI & LLM Applications</li>
     <li>AI Agents & RAG</li>
     <li>Python, Spark, Databricks, Azure AI</li>
-    <li>Experimentation & A/B Testing</li>    
+    <li><a href="https://github.com/elrayah/marketing-science-causal-inference-lab/blob/main/marketing_science_methods_lab_executed.ipynb" target ="_blank">Experimentation & A/B Testing</li>    
   </ol>
 
 📫 Reach me at: elrayah@gmail.com
