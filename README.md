@@ -10,7 +10,6 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
 
 👯 I’m interested in collaborating on projects involving Machine Learning, Generative AI, Marketing Science, Geospatial Analytics, MLOps, and Enterprise AI applications.
 
-👨‍💻 Portfolio & Projects: https://github.com/elrayah/Data-Science
 
 💬 Ask me about:
   <ol>
