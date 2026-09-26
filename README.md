@@ -14,8 +14,8 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
 
 💬 Ask me about:
   <ol>
-    <li><a href="https://github.com/elrayah/intent-classification-using-TF-DF-and-losticregression/blob/main/1-intent-classification-using-TF-DF-and-LogisticRegression.ipynb" target = "_blank"?Machine Learning & Predictive Analytics</li>
-    <li><a href ="https://github.com/elrayah/marketing-science-causal-inference-lab/blob/main/marketing_science_methods_lab_executed.ipynb" target="_blank">Marketing Science Causal Inference Lab</li>
+    <li><a href="https://github.com/elrayah/intent-classification-using-TF-DF-and-losticregression/blob/main/1-intent-classification-using-TF-DF-and-LogisticRegression.ipynb" target = "_blank">Machine Learning & Predictive Analytics</a></li>
+    <li><a href ="https://github.com/elrayah/marketing-science-causal-inference-lab/blob/main/marketing_science_methods_lab_executed.ipynb" target="_blank">Marketing Science Causal Inference Lab</a></li>
     <li><a href="https://github.com/elrayah/google-meridian-mmm" target="_blank">Marketing Mix Modeling (MMM)</a></li>
     <li>Bayesian Modeling & Causal Inference</li>
     <li>Time Series Forecasting</li>
@@ -23,7 +23,7 @@ Senior AI & Data Scientist with 15+ years of experience building machine learnin
     <li>Generative AI & LLM Applications</li>
     <li>AI Agents & RAG</li>
     <li>Python, Spark, Databricks, Azure AI</li>
-    <li><a href="https://github.com/elrayah/marketing-science-causal-inference-lab/blob/main/marketing_science_methods_lab_executed.ipynb" target ="_blank">Experimentation & A/B Testing</li>    
+    <li><a href="https://github.com/elrayah/marketing-science-causal-inference-lab/blob/main/marketing_science_methods_lab_executed.ipynb" target ="_blank">Experimentation & A/B Testing</a></li>    
   </ol>
 
 📫 Reach me at: elrayah@gmail.com
